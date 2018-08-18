@@ -1,0 +1,4 @@
+The are 2 <img> without attribute alt 
+The are 2 <a> without attribute rel 
+The HTML have more than 15 <strong> 
+The HTML have more than 1 <h1> 
